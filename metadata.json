@@ -1,0 +1,6 @@
+{
+  "name": "AS-CHAT",
+  "description": "Anonymous end-to-end encrypted chat application with phone verification, photo sharing, and customizable themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
